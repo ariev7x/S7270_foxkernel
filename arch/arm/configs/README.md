@@ -1,1 +1,1 @@
-kumpulan config
+config kernel
